@@ -1,0 +1,85 @@
+html {
+  margin: 0;
+  width: 100%;
+}
+
+h1 {
+  font-family: 'Alice', serif;
+  font-weight: bold;
+  line-height: 2.5rem;
+}
+
+h4 {
+  font-family: 'Oswald', sans-serif;
+  line-height: 2.5rem;
+  font-size: 1.5rem;
+}
+
+/* TITLE SECTION  */
+#title {
+  background-color: #FFBC00;
+  color: #fff;
+}
+
+.title-navbar {
+  padding: 1rem 15% 1rem;
+  background-color: #CC9600;
+  text-align: center;
+}
+
+.poster-div {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.poster-right {
+  padding: 10% 1rem;
+}
+
+/* FEATURES SECTION */
+#features {
+  padding: 3% 0;
+  text-align: center;
+}
+
+.features-row {
+  padding: 3% 10%;
+}
+
+.feature-icon {
+  color: #CC9600;
+}
+.feature-icon:hover {
+  color: #FFBC00;
+}
+
+/* PRODUCTS SECTION */
+#products {
+  background-color: #FFBC00;
+  color: #fff;
+  padding-top: 3%;
+  text-align: center;
+}
+
+.carousel-inner {
+  padding: 3% 15% 0;
+}
+
+.slide-image {
+  height: 600px;
+}
+
+/* CONTACT SECTION */
+#contacts {
+  color: #B5AA99;
+  text-align: center;
+  padding: 5% 0;
+}
+
+.footer-icon {
+  margin: 20px;
+}
+.footer-icon:hover {
+  color: #CC9600;
+}
