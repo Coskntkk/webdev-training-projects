@@ -1,0 +1,17 @@
+body {
+  background-image: url("bg.png");
+  margin: 0;
+  padding-top: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  font-family: sans-serif;
+  color: yellow;
+  margin-top: 0;
+}
+
+img {
+  width: 30%;
+}
